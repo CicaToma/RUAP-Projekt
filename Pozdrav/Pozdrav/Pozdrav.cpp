@@ -2,5 +2,7 @@
 
 int main()
 {
-	std::cout << "Pozdrav iz aplikacije od Filipa Kovacevica, br. indx = R3473"<< std::endl;
+
+	std::cout << "Pozdrav iz aplikacije od Filipa Kovacevica"<< std::endl;
+
 }
